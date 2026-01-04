@@ -12,7 +12,7 @@ My core interests and skills include:
 🔬 Current Research & Projects
 
 LLM Metacognition Research (2025-Current)
-Research mentorship with Christopher Ackerman through SPAR (Supervised Program for Alignment Research) investigating metacognitive capabilities in large language models. Exploring how LLMs monitor their own reasoning processes, recognize uncertainty, and self-correct—capabilities essential for building systems that remain aligned and truthful even as they scale in capability.
+Research mentorship with Christopher Ackerman through SPAR (Supervised Program for Alignment Research) investigating metacognitive capabilities in large language models. Exploring how LLMs monitor their own reasoning processes, recognize uncertainty, and self-correct. 
 
 EEG Seizure Detection System (2024-Current)
 Developing a vector-quantized variational autoencoder-based diagnostic system to assist neurologists in classifying seizure types from EEG brain signals. The architecture uses a novel VAE tokenizer that applies Fourier transforms to raw time series data, enabling transformers to process neural oscillations similar to how LLMs process language tokens. This approach bridges signal processing with modern NLP architectures, creating interpretable representations of brain states that could revolutionize clinical EEG analysis.
