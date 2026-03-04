@@ -21,7 +21,7 @@ Developing a vector-quantized variational autoencoder-based diagnostic system to
 Directing an international research collaboration analyzing how structural brain changes influence neural dynamics throughout aging. Using a novel mathematical framework called "Connectome Harmonics," we're processing large-scale neuroimaging datasets from the University of Oxford to reveal new insights into cognitive decline. This work combines spectral graph theory, complex systems analysis, and large-scale data processing to uncover potential biomarkers for age-related neurodegeneration.
 
 🧠 **Inspirations & Interests**
-I draw inspiration from thinkers like Joscha Bach, Douglas Hofstadter, Selen Atasoy, and Leonid Perlovsky; researchers who bridge disciplines to understand intelligence, consciousness, and complex systems.
+I draw inspiration from thinkers like Michael Levin, Joscha Bach, Douglas Hofstadter, Selen Atasoy, and Leonid Perlovsky; researchers who bridge disciplines to understand intelligence, consciousness, and complex systems.
 
 Outside of research, I explore meditation, philosophy, and music. I've traveled to 16 countries and counting, always curious about how different perspectives shape understanding.
 
