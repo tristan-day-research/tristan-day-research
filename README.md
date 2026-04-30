@@ -1,31 +1,36 @@
-👋 Hi, I'm Tristan.
+# Hi, I'm Tristan Day
 
-I'm a research scientist and machine learning engineer working at the intersection of AI safety, interpretability, and computational neuroscience. I bridge theoretical insight with practical implementation to contribute to the development of safe and aligned AI systems.
-My core interests and skills include:
+Research Fellow, Cambridge Boston Alignment Initiative (CBAI)  
+Research areas: mechanistic interpretability, LLM metacognition, AI safety, and computational neuroscience  
+[Email](mailto:tristan.julian.day@gmail.com)    [LinkedIn](https://www.linkedin.com/in/tristan-day-research/)
 
-- AI safety, alignment, and interpretability
-- Novel machine learning architectures for real-world impact
+I am an AI researcher specializing in mechanistic interpretability working on questions at the intersection of AI Alignment, LLM introspection, and neuroscience. My work combines conceptual framing with practical implementation, with a focus on understanding and improving intelligent systems.
+
+## Current Research
+
+### LLM Metacognition and Confidence
+Under mentorship through SPAR (Supervised Program for Alignment Research), I study metacognitive capabilities in large language models, including uncertainty monitoring, confidence reporting, and self-correction. This work explores how models represent and report their own uncertainty and what changes through instruction tuning and fine-tuning.
+
+Poster: https://docs.google.com/presentation/d/1zwCehQ1a3XeNf6D7Obp2BtOFiib0ABtTx0k7PESQErA
+
+### Persona Representations in Language Models
+At CBAI, I am investigating whether personas in language models reflect shallow stylistic variation or deeper representational differences. This work uses behavioral and mechanistic methods, including probing and intervention-based analysis, to study how persona conditioning affects internal model states.
+
+### EEG Seizure Detection
+I am developing an EEG seizure detection and classification system using representation learning methods inspired by modern sequence models. The goal is to produce clinically useful and interpretable representations of brain activity that may help support neurological diagnosis.
+
+### Connectome Harmonics and Brain Dynamics
+I direct an international research collaboration studying how structural changes in the brain affect large-scale neural dynamics across the lifespan. Using connectome harmonics and large neuroimaging datasets, this work investigates possible biomarkers of aging and cognitive decline.
+
+## Research Interests
+
+- Mechanistic interpretability
+- LLM metacognition and self-monitoring
+- AI safety and alignment
+- Computational neuroscience
+- Brain dynamics and connectome harmonics
 - Neuro-symbolic systems and abstract reasoning
-- Computational neuroscience and brain dynamics
-- Mechanistic interpretability and transparency in AI systems
 
-🔬 **Current Research & Projects**
+## About This GitHub
 
-**LLM Metacognition Research** (2025-Current)
-Research mentorship with Christopher Ackerman through SPAR (Supervised Program for Alignment Research) investigating metacognitive capabilities in large language models. Exploring how LLMs monitor their own reasoning processes, recognize uncertainty, and self-correct. Poster can be viewed here https://docs.google.com/presentation/d/1zwCehQ1a3XeNf6D7Obp2BtOFiib0ABtTx0k7PESQErA
-
-**EEG Seizure Detection System** (2024-Current)
-Developing a vector-quantized variational autoencoder-based diagnostic system to assist neurologists in classifying seizure types from EEG brain signals. The architecture uses a novel VAE tokenizer that applies Fourier transforms to raw time series data, enabling transformers to process neural oscillations similar to how LLMs process language tokens. This approach bridges signal processing with modern NLP architectures, creating interpretable representations of brain states that could revolutionize clinical EEG analysis.
-
-**Connectome Harmonics: Brain Dynamics Across the Lifespan** (2022-Current)
-Directing an international research collaboration analyzing how structural brain changes influence neural dynamics throughout aging. Using a novel mathematical framework called "Connectome Harmonics," we're processing large-scale neuroimaging datasets from the University of Oxford to reveal new insights into cognitive decline. This work combines spectral graph theory, complex systems analysis, and large-scale data processing to uncover potential biomarkers for age-related neurodegeneration.
-
-🧠 **Inspirations & Interests**
-I draw inspiration from thinkers like Michael Levin, Joscha Bach, Douglas Hofstadter, Selen Atasoy, and Leonid Perlovsky; researchers who bridge disciplines to understand intelligence, consciousness, and complex systems.
-
-Outside of research, I explore meditation, philosophy, and music. I've traveled to 16 countries and counting, always curious about how different perspectives shape understanding.
-
-📁 **About This GitHub**
-This GitHub showcases a subset of my work. Some projects are proprietary or in progress, but the public repositories here reflect areas of active research and technical interest.
-
-**Feel free to reach out with an opportunity or colaboration idea!** Contact me via [email](mailto:tristan.julian.day@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/tristan-day-research/).
+This GitHub contains selected research and technical projects. Some work is ongoing, private, or not yet prepared for public release, but the repositories here reflect my active research interests and development work.
