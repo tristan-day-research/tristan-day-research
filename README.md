@@ -1,10 +1,11 @@
-# Hi, I'm Tristan Day
+<b>Hi, I'm Tristan Day</b>
 
-Research Fellow, Cambridge Boston Alignment Initiative (CBAI)  
-Research areas: mechanistic interpretability, LLM metacognition, AI safety, and computational neuroscience  
+<b>Research Fellow, Cambridge Boston Alignment Initiative (CBAI)</b> My current work is conducted through CBAI in collaboration with mentors and collaborators at MIT. I am also active in the broader Cambridge AI safety community, including regular participation in the Harvard AI Safety group.
+
+<b>Research areas:</b> Mechanistic interpretability, LLM metacognition, AI Alignment, and computational neuroscience  
 [Email](mailto:tristan.julian.day@gmail.com)    [LinkedIn](https://www.linkedin.com/in/tristan-day-research/)
 
-I am an AI researcher specializing in mechanistic interpretability working on questions at the intersection of AI Alignment, LLM introspection, and neuroscience. My work combines conceptual framing with practical implementation, with a focus on understanding and improving intelligent systems.
+I work on understanding how intelligent systems represent, monitor, and report information internally, with a particular focus on interpretability, metacognition, and personas in LLMs.
 
 ## Current Research
 
@@ -14,7 +15,7 @@ Under mentorship through SPAR (Supervised Program for Alignment Research), I stu
 Poster: https://docs.google.com/presentation/d/1zwCehQ1a3XeNf6D7Obp2BtOFiib0ABtTx0k7PESQErA
 
 ### Persona Representations in Language Models
-At CBAI, I am investigating whether personas in language models reflect shallow stylistic variation or deeper representational differences. This work uses behavioral and mechanistic methods, including probing and intervention-based analysis, to study how persona conditioning affects internal model states.
+At CBAI, I am investigating whether personas in language models reflect shallow stylistic variation or deeper representational differences. This work uses behavioral and mechanistic methods, including probing and intervention-based analysis, to study how persona conditioning affects internal model states. 
 
 ### EEG Seizure Detection
 I am developing an EEG seizure detection and classification system using representation learning methods inspired by modern sequence models. The goal is to produce clinically useful and interpretable representations of brain activity that may help support neurological diagnosis.
