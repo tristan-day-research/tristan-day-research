@@ -1,6 +1,4 @@
-<b>Hi, I'm Tristan Day</b>
-
-[Email](mailto:tristan.julian.day@gmail.com)    [LinkedIn](https://www.linkedin.com/in/tristan-day-research/)
+### Hi, I'm Tristan Day
 
 ### Research Fellow, Cambridge Boston Alignment Initiative (CBAI).
 My current work is conducted through CBAI in collaboration with mentors and collaborators at MIT. I am also active in the broader Cambridge AI safety community, including regular participation in the Harvard AI Safety group.
@@ -10,8 +8,9 @@ My current work is conducted through CBAI in collaboration with mentors and coll
 
 I work on understanding how intelligent systems represent, monitor, and report information internally, with a particular focus on interpretability, metacognition, and personas in LLMs.
 
+[Email](mailto:tristan.julian.day@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/tristan-day-research/)
 
-### Current Research
+## Current Research
 
 #### LLM Metacognition and Confidence
 Under mentorship through SPAR (Supervised Program for Alignment Research), I study metacognitive capabilities in large language models, including uncertainty monitoring, confidence reporting, and self-correction. This work explores how models represent and report their own uncertainty and what changes through instruction tuning and fine-tuning.
