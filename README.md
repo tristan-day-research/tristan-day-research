@@ -1,11 +1,14 @@
 <b>Hi, I'm Tristan Day</b>
 
-<b>Research Fellow, Cambridge Boston Alignment Initiative (CBAI)</b> My current work is conducted through CBAI in collaboration with mentors and collaborators at MIT. I am also active in the broader Cambridge AI safety community, including regular participation in the Harvard AI Safety group.
+### Research Fellow, Cambridge Boston Alignment Initiative (CBAI).
+My current work is conducted through CBAI in collaboration with mentors and collaborators at MIT. I am also active in the broader Cambridge AI safety community, including regular participation in the Harvard AI Safety group.
 
-<b>Research areas:</b> Mechanistic interpretability, LLM metacognition, AI Alignment, and computational neuroscience  
-[Email](mailto:tristan.julian.day@gmail.com)    [LinkedIn](https://www.linkedin.com/in/tristan-day-research/)
+#### Research areas:
+<b> Mechanistic interpretability, LLM metacognition, AI Alignment, and computational neuroscience. </b>
 
 I work on understanding how intelligent systems represent, monitor, and report information internally, with a particular focus on interpretability, metacognition, and personas in LLMs.
+
+[Email](mailto:tristan.julian.day@gmail.com)    [LinkedIn](https://www.linkedin.com/in/tristan-day-research/)
 
 ### Current Research
 
