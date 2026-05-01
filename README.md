@@ -4,7 +4,13 @@
 My current work is conducted through CBAI in collaboration with mentors and collaborators at MIT. I am also active in the broader Cambridge AI safety community, including regular participation in the Harvard AI Safety group.
 
 ### Research areas:
-<b> Mechanistic interpretability, LLM metacognition, AI Alignment, and computational neuroscience. </b>
+- Mechanistic interpretability
+- LLM metacognition and self-monitoring
+- The relationship of personas and computation in LLMs
+- AI alignment
+- Computational neuroscience
+- Brain dynamics and connectome harmonics
+- Philosophy, especially philosophy of mind
 
 I work on understanding how intelligent systems represent, monitor, and report information internally, with a particular focus on interpretability, metacognition, and personas in LLMs.
 
@@ -26,14 +32,8 @@ I direct an international research collaboration studying how structural changes
 #### EEG Seizure Detection
 I am developing an EEG seizure detection and classification system using representation learning methods inspired by modern sequence models. The goal is to produce clinically useful and interpretable representations of brain activity that may help support neurological diagnosis.
 
-## Research Interests
 
-- Mechanistic interpretability
-- LLM metacognition and self-monitoring
-- The relationship of personas and computation in LLMs
-- AI alignment
-- Computational neuroscience
-- Brain dynamics and connectome harmonics
-- Neuro-symbolic systems and abstract reasoning
+
+
 
 This GitHub contains selected research and technical projects. Some work is ongoing, private, or not yet prepared for public release, but the repositories here reflect my active research interests and development work.
