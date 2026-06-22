@@ -12,7 +12,7 @@ My current work is conducted through CBAI in collaboration with mentors and coll
 - Brain dynamics and connectome harmonics
 - Philosophy, especially philosophy of mind
 
-[Email](mailto:tristan.julian.day@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/tristan-day-research/)
+[Website](https://tristan-day-research.github.io/) [Email](mailto:tristan.julian.day@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/tristan-day-research/)
 
 ## Current Research
 
